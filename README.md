@@ -83,11 +83,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Project-link][product-screenshot]](https://example.com)
+O projeto consiste em uma forma prática e funcional de aprendizado sobre as tecnologias da programação. O diferencial do nosso projeto é a abordagem mais prática e mais independente. Nós iremos ensinar o aluno a se virar sozinho, daremos a ele as ferramentas necessárias para desenvolver seus códigos de forma autônoma, uma das ferramentas é o stackoverflow, ensinaremos as pessoas como os programadores usam a ‘internet’ a seu favor e quais sites podem ajuda-los em sua jornada.
+<!-- [![Project-link][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
@@ -107,9 +108,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 <!-- GETTING STARTED -->
-## About Project
+<!-- ## About Project
 
-O projeto consiste em uma forma prática e funcional de aprendizado sobre as tecnologias da programação. O diferencial do nosso projeto é a abordagem mais prática e mais independente. Nós iremos ensinar o aluno a se virar sozinho, daremos a ele as ferramentas necessárias para desenvolver seus códigos de forma autônoma, uma das ferramentas é o stackoverflow, ensinaremos as pessoas como os programadores usam a ‘internet’ a seu favor e quais sites podem ajuda-los em sua jornada.
+O projeto consiste em uma forma prática e funcional de aprendizado sobre as tecnologias da programação. O diferencial do nosso projeto é a abordagem mais prática e mais independente. Nós iremos ensinar o aluno a se virar sozinho, daremos a ele as ferramentas necessárias para desenvolver seus códigos de forma autônoma, uma das ferramentas é o stackoverflow, ensinaremos as pessoas como os programadores usam a ‘internet’ a seu favor e quais sites podem ajuda-los em sua jornada. -->
 
 <!-- ### Prerequisites
 
@@ -167,11 +168,12 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <!-- CONTRIBUTING -->
 ## Contribuidores
 
-Guilherme Jorge (https://github.com/Nevesto)
-Daniel Navarro (https://github.com/DanielNavaxro)
-Paullo Sergyo (https://github.com/MaisUm-01)
-Victor Hugo (https://github.com/forgget)
-
+<li>
+    - Guilherme Jorge (https://github.com/Nevesto)
+    - Daniel Navarro (https://github.com/DanielNavaxro)
+    - Paullo Sergyo (https://github.com/MaisUm-01)
+    - Victor Hugo (https://github.com/forgget)
+<li>
 <!-- Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
