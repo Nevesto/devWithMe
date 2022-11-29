@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Nevesto/devWithMe">
-    <img src="/logo-dev.png" alt="Logo" width="80" height="80">
+    <img src="/logo-dev.png" alt="Logo" width="160" >
   </a>
 
 <h3 align="center">devWithMe</h3>
