@@ -168,13 +168,13 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <!-- CONTRIBUTING -->
 ## Contribuidores
 <ul>
-<li>(<a href="[#readme-top](https://github.com/Nevesto)">Guilhrme Jorge</a>)<li>
+<li>(<a href="https://github.com/Nevesto">Guilhrme Jorge</a>)<li>
 
-<li>(<a href="[#readme-top](https://github.com/Nevesto)">Daniel Navarro</a>)<li>
+<li>(<a href="https://github.com/DanielNavaxro">Daniel Navarro</a>)<li>
 
-<li>(<a href="[#readme-top](https://github.com/Nevesto)">Paullo Sergyo</a>)<li>
+<li>(<a href="https://github.com/MaisUm-01">Paullo Sergyo</a>)<li>
 
-<li>(<a href="[#readme-top](https://github.com/Nevesto)">Victor Hugo</a>)<li>
+<li>(<a href="https://github.com/forgget">Victor Hugo</a>)<li>
 
 <ul>
 <!-- Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
