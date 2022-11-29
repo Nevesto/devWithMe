@@ -170,10 +170,20 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <li>
     - Guilherme Jorge (https://github.com/Nevesto)
+<li>
+
+<li>
     - Daniel Navarro (https://github.com/DanielNavaxro)
+<li>
+
+<li>
     - Paullo Sergyo (https://github.com/MaisUm-01)
+<li>
+
+<li>
     - Victor Hugo (https://github.com/forgget)
 <li>
+
 <!-- Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
